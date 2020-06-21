@@ -21,6 +21,12 @@
     #page-home {
         background-position-x: 40vw;
     }
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+    #page-search-results .cards img {
+        height: 250px;
+    }
 }
 
 @media (max-height: 760px) {

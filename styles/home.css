@@ -79,7 +79,7 @@ header a span {
     justify-content: center;
 }
 
-#page-home main a span::after {
+#page-home main a span:after {
     content: "";
     background-image: url("../icones/search.svg");
     height: 20px;
