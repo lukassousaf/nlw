@@ -1,3 +1,12 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "files.associations": {
+        "*.html": "njk"
+    },
+    "vsicons.associations.files": [
+        { "icon": "nunjucks", "extensions": ["html"], "format": "svg" }
+    ],
+    "workbench.iconTheme": "vscode-icons"
+
 }
+
